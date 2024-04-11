@@ -18,3 +18,5 @@ while True:
     jugar_nuevamente = input("\n¿Quieres jugar de nuevo? (si/no): ")
     if jugar_nuevamente.lower() != "si":
         break
+        #Desarrolado por Gerard Mauricio Pacheco Sanchez
+        #TI 112575853
